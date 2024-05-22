@@ -1,5 +1,7 @@
 CRUD complete with C#
 
+scheduling events in an apartment, if there is a schedule on the day, it is not possible to add an event, the query is made by date
+
 ![image](https://github.com/CalebeBirer/Pratice_project/assets/90878309/18c7a56e-574a-4249-bcf0-17ccf2482227)
 ![image](https://github.com/CalebeBirer/Pratice_project/assets/90878309/2739e0f5-916d-4a42-b540-5c18270440e7)
 ![image](https://github.com/CalebeBirer/Pratice_project/assets/90878309/55a36332-b807-4f3b-a7c4-0925d0125c27)
