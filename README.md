@@ -1,3 +1,4 @@
+<h1 aling="center">Pratice Project</h1>
 CRUD complete with C#
 
 scheduling events in an apartment, if there is a schedule on the day, it is not possible to add an event, the query is made by date
